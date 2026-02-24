@@ -2,18 +2,10 @@
 
 ---
 
-## 🧭 About
+## 💫 About
 - 🧑‍💻 Open source and personal projects
 - 📚 Trying new frameworks and libraries
 - 🤝 Collaboration and code reviews
-
-## 🌐 Contact
-- Email: Spongebob6254473@gmail.com
-- LinkedIn: [Profile](www.linkedin.com/in/boburjon-umarov-97116a203)
-- Telegram: [@Developer_B](https://t.me/@developer_b)
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/valacarr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umarov_b_official) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spongebob6254473@gmail.com) 
